@@ -1,0 +1,26 @@
+panel_slots,display_name,poles,nominal_voltage,breaker_rating,circuit_type,notes
+1/3,A/C,2,240,30,cyclical_compressor,Outdoor condenser
+5,Basement,1,120,15,user,
+7,Furnace,1,120,15,cyclical_motor,
+9,Laundry,1,120,20,user,Verify if dryer is separate
+11,Garage,1,120,20,user,
+13,Dining Room,1,120,15,user,
+15,GFI Circuit,1,120,20,user,
+17,Smoke Detectors,1,120,15,continuous_low,
+19,Whirlpool,1,120,15,cyclical_motor,
+21,Outside + Foyer Lights,1,120,15,lights,
+23,Kitchen Lights,1,120,15,lights,
+25,Family Room,1,120,15,user,
+27,Living Room,1,120,15,user,
+2,Utility Outlet,1,120,20,user,
+4,Sump,1,120,20,cyclical_motor,
+6,Ejector,1,120,20,cyclical_motor,
+8,Microwave,1,120,15,high_demand,
+10/12,Dishwasher,1,120,15,cyclical_motor,
+14,Kitchen Outlets A,1,120,20,user,
+16,Kitchen Outlets B,1,120,20,user,
+18,Eli Bedroom,1,120,15,user,GFCI
+20,Guest Bedroom + Bath,1,120,15,user,GFCI
+22,Master,1,120,15,user,GFCI
+24,Kaja Bedroom,1,120,15,user,GFCI
+28/30,Garage Subpanel,2,240,60,subpanel,Heater/welder
